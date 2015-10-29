@@ -47,4 +47,4 @@
         android:text="@string/radio_group_1_clear"
         android:id="@+id/clear" />
 </LinearLayout>
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/layout/radio_group_1.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/layout/radio_group_1.xml -->

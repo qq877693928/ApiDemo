@@ -19,4 +19,4 @@
     android:layout_height="match_parent"
     android:padding="6dip"
     android:textAppearance="?android:attr/textAppearanceMedium" />
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/layout/game_controller_input_heading.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/layout/game_controller_input_heading.xml -->

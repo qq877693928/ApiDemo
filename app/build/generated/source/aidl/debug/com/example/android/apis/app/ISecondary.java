@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/Lzh/Api_Demo/app/src/main/aidl/com/example/android/apis/app/ISecondary.aidl
+ * Original file: /Users/Lzh/GitCodeHub/AndroidApi/app/src/main/aidl/com/example/android/apis/app/ISecondary.aidl
  */
 package com.example.android.apis.app;
 /**

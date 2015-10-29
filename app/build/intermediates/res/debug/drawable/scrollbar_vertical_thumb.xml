@@ -19,4 +19,4 @@
             android:angle="0"/>
     <corners android:radius="6dp" />
 </shape>
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/drawable/scrollbar_vertical_thumb.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/drawable/scrollbar_vertical_thumb.xml -->

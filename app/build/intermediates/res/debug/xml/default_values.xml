@@ -42,4 +42,4 @@
             android:dialogTitle="@string/dialog_title_list_preference" />
 
 </PreferenceScreen>
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/xml/default_values.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/xml/default_values.xml -->

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/values-v11/bools.xml -->
+    <!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/values-v11/bools.xml -->
     <eat-comment/>
     <bool name="atLeastHoneycomb">true</bool>
-    <!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/values-v11/styles.xml -->
+    <!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/values-v11/styles.xml -->
     <eat-comment/>
     <style name="ThemeDialogWhenLarge" parent="android:style/Theme.Holo.DialogWhenLarge">
     </style>

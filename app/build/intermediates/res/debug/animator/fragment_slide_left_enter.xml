@@ -30,4 +30,4 @@
         android:propertyName="alpha"
         android:duration="@android:integer/config_mediumAnimTime" />
 </set>
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/animator/fragment_slide_left_enter.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/animator/fragment_slide_left_enter.xml -->

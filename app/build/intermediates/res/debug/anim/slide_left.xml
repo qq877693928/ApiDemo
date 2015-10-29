@@ -18,4 +18,4 @@
     <translate android:fromXDelta="100%p" android:toXDelta="0"
         android:duration="@android:integer/config_shortAnimTime" />
 </set>
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/anim/slide_left.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/anim/slide_left.xml -->

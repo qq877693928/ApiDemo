@@ -62,4 +62,4 @@
             android:text="@string/hover_button" />
     </com.example.android.apis.view.HoverInterceptorView>
 </LinearLayout>
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/layout/hover.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/layout/hover.xml -->

@@ -3,4 +3,4 @@
     <item android:id="@+id/switch_cam"
           android:title="@string/switch_cam" />
 </menu>
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/menu/camera_menu.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/menu/camera_menu.xml -->

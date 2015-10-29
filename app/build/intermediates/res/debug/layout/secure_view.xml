@@ -110,4 +110,4 @@
             android:text="@string/secure_view_button"/>
     </LinearLayout>
 </ScrollView>
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/layout/secure_view.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/layout/secure_view.xml -->

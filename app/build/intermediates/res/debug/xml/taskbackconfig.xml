@@ -22,4 +22,4 @@
     android:notificationTimeout="100"
     android:canRetrieveWindowContent="true"
     android:description="@string/accessibility_query_window_description" />
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/xml/taskbackconfig.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/xml/taskbackconfig.xml -->

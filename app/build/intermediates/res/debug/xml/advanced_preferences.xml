@@ -36,4 +36,4 @@
             android:summaryOff="@string/summary_off_advanced_toggle_preference" />
 
 </PreferenceScreen>
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/xml/advanced_preferences.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/xml/advanced_preferences.xml -->

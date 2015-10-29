@@ -21,4 +21,4 @@
     android:id="@+id/surface_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/layout/presentation_with_media_router_content.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/layout/presentation_with_media_router_content.xml -->

@@ -17,4 +17,4 @@
 <layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
         android:delay="10%"
         android:animation="@anim/slide_left" />
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/anim/layout_animation_row_left_slide.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/anim/layout_animation_row_left_slide.xml -->

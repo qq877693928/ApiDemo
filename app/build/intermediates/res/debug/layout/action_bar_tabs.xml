@@ -47,4 +47,4 @@
                 android:onClick="onRemoveAllTabs" />
     </LinearLayout>
 </LinearLayout>
-<!-- From: file:/Users/Lzh/Api_Demo/app/src/main/res/layout/action_bar_tabs.xml -->
+<!-- From: file:/Users/Lzh/GitCodeHub/AndroidApi/app/src/main/res/layout/action_bar_tabs.xml -->
