@@ -10,9 +10,9 @@ build/
 local.properties
 *.iml
 *.pyc
-package/feifan/channels
 .metadata
 .settings
 gradle.properties
 .gradle
 package.sh
+.idea/workspace.xml
