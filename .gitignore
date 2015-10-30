@@ -16,3 +16,4 @@ gradle.properties
 .gradle
 package.sh
 .idea/workspace.xml
+app/build/
